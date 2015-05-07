@@ -1,8 +1,8 @@
 #WDI: First Project
 
 ###Workflow & Submission
+Full project requirements and instructions are [here](https://github.com/sf-wdi-18/notes/blob/master/projects/project_1.md)! _Read that entire document before writing a line of code._
 This file is where you will document your project.  
-Full project requirements and instructions are [here](https://github.com/sf-wdi-18/notes/blob/master/projects/project_1.md)! 
 
 * Fork this repository.
 * Clone this repo, the `Project_1_TTT` repo, from *your* gitHub account onto your computer.
@@ -12,3 +12,13 @@ Full project requirements and instructions are [here](https://github.com/sf-wdi-
 * `git add` and `git commit` your changes as you go.  Remember to say what you did in your commit messages!
 * `git push` to update the repo on your gitHub account.
 * Delete this section, the `Workflow & Submission` section, of this file -- you don't need it in your documentation!
+
+
+### Technologies Used
+*fill this in*
+
+###Existing features
+*fill this in*
+
+###Planned features
+*fill this in*
