@@ -2,7 +2,7 @@
 
 ###Workflow & Submission
 This file is where you will document your project.  
-Full project requirements and instructions are [here](https://github.com/sf-wdi-18/notes/blob/master/projects/project_1.md)! T
+Full project requirements and instructions are [here](https://github.com/sf-wdi-18/notes/blob/master/projects/project_1.md)! 
 
 * Fork this repository.
 * Clone the `Project_1_TTT` repo from *your* gitHub account onto your computer.
