@@ -1,7 +1,7 @@
 #WDI: First Project
 
 ###Workflow & Submission
-Full project requirements and instructions are [here](https://github.com/sf-wdi-18/notes/blob/master/projects/project_1.md)! _Read that entire document before writing a line of code._
+Full project requirements and instructions are [here](https://github.com/sf-wdi-18/notes/blob/master/projects/project_1.md)! **Read that entire document before writing a line of code.**
 This file is where you will document your project.  
 
 * Fork this repository.
