@@ -15,10 +15,10 @@ This file is where you will document your project.
 
 
 ### Technologies Used
-*fill this in*
+*What technologies did you use while developing this project?*
 
 ###Existing features
-*fill this in*
+*What features does your new tic-tac-toe app have?*
 
 ###Planned features
-*fill this in*
+*What changes would you make to your project if you continued with it in the future?*
