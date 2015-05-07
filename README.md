@@ -1,4 +1,4 @@
-#README
+#WDI Project 1
 
 This is where will will document your project that follows these [requirements](https://github.com/sf-wdi-18/notes/blob/master/labs/week_2.md)! 
 
