@@ -1,43 +1,41 @@
-// OOP Tic Tac Toe boilerplate code
+// OOP Racing Game example boilerplate code
 
-// Execute this code only AFTER the document is ready
-// Hint: use jQuery's `$(document).ready`
+function Game() {
+  //Create a new instance of player 1
+  //this.player1 = ...
 
-  function Game() {
-    //Create a new instance of player 1
-    //this.player1 = ...
+  //Do the same for a player 2
+  //this.player2 = ...
 
-    //Do the same for a player 2
-    //this.player2 = ...
-    
-    //Create the board
-    //this.board = ...
-  }
+  //Create the track
+  //this.track = ...
+}
 
-  // Remember: prototypes are shared functions between all game instances
-  Game.prototype.nextPlayer = function() {
-    //Switch players
-  };
+// `Game.prototype.init` kicks off a new game with a board and two players
+Game.prototype.init = function() {
+  //
+};
 
-  // `Game.prototype.init` kicks off a new game with a board and two players
-  Game.prototype.init = function() {
-    //
-  };
+// A starter Player constructor.
+function Player(team) {
+  //this.name = ...
+  //this.position = ...
+};
 
-  // A starter Player constructor.
-  function Player(team) {
-    //Is the player X or O?
-    //this.team = ...
-  };
+// Remember: prototypes are shared functions between all game instances
+Player.prototype.move = function() {
+  //update player's position
+};
 
-  // A starter Board constructor.
-  function Board() {
-    //Tracks the cells of the board instance
-    //this.$cells = ...
 
-    //Store any other properties that board may have below, such as a reset option
-  };
+// A starter Track constructor.
+function Track() {
+  //Tracks the cells of the board instance
+  //this.$cells = ...
 
-  // Start the game!
-  var game = new Game();
-  game.init();
+  //Store any other properties that board may have below, such as a reset option
+};
+
+// Start the game!
+var game = new Game();
+game.init();
